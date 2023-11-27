@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BlueShardow
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to collaborate on noting
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me, don't
 
 <!---
