@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BlueShardow
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me, don't
+- Hi, I’m @BlueShardow
+- I’m interested in coding (such a big surprise I know
+- I’m currently learning C and C#
+- I’m looking to collaborate on ___
+- How to reach me, ___
 
 <!---
 BlueShardow/BlueShardow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
