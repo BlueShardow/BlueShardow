@@ -1,5 +1,5 @@
 - Hi, I’m @BlueShardow
-- I’m interested in coding (such a big surprise I know
+- I’m interested in coding (such a big surprise) I know
 - I’m currently learning C and C#
 - I’m looking to collaborate on ___
 - How to reach me, ___
